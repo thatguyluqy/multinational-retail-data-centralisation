@@ -1,0 +1,11 @@
+
+<br><br>
+RDS_HOST: data-handling-project-readonly.cq2e8zno855e.eu-west-1.rds.amazonaws.com<br> 
+RDS_PASSWORD: AiCore2022<br> 
+RDS_USER: aicore_admin<br> 
+RDS_DATABASE: postgres<br> 
+RDS_PORT: 5432<br><br>
+RDS_HOST: data-handling-project-readonly.cq2e8zno855e.eu-west-1.rds.amazonaws.com<br> 
+RDS_PASSWORD: AiCore2022<br> 
+RDS_USER: aicore_admin<br> 
+RDS_DATABASE: postgres<br> RDS_PORT: 5432<br><br>
